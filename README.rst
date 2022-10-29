@@ -13,7 +13,7 @@ individual block, please let us know via a report on chaos.social.
 
 By the way: we're always open to discuss nice ways to customize chaos.social,
 e.g. backgrounds, non-intrusive styling, or emojis … feel free to submit those
-to our `customisation_repo`_!
+to our `customisation repo`_!
 
 
 .. _about.html: https://github.com/chaossocial/about/blob/master/about.html
